@@ -1,6 +1,5 @@
 package interviews;
 
-import org.example.CustomEvent;
 import org.springframework.context.event.EventListener;
 import org.springframework.stereotype.Component;
 

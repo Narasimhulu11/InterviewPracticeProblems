@@ -1,7 +1,5 @@
 package interviews.java8;
 
-import org.example.java.CreditCardPayment;
-import org.example.java.PayPalPayment;
 
 import java.util.HashMap;
 import java.util.Map;

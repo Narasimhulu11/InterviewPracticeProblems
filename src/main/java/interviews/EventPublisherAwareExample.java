@@ -1,6 +1,5 @@
 package interviews;
 
-import org.example.CustomEvent;
 import org.springframework.context.ApplicationEventPublisher;
 import org.springframework.context.ApplicationEventPublisherAware;
 import org.springframework.stereotype.Component;

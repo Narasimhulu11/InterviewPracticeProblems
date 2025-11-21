@@ -1,6 +1,6 @@
 package interviews;
 
-import org.example.CustomEvent;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.ApplicationEventPublisher;
 import org.springframework.stereotype.Component;

@@ -2,8 +2,6 @@ package org.example.tesco.container;
 
 import java.util.*;
 
-import org.example.Employeee;
-import sun.reflect.generics.tree.Tree;
 
 public class SetTest {
     public static void main(String args[]){

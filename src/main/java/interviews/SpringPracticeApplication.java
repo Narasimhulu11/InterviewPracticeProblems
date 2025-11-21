@@ -1,8 +1,6 @@
 package interviews;
 
-import org.example.ApplicationContextPublisher;
-import org.example.EventPublisher;
-import org.example.EventPublisherAwareExample;
+
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ConfigurableApplicationContext;
